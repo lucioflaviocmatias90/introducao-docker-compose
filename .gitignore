@@ -1,0 +1,4 @@
+node_modules
+api/db/data
+api/node_modules
+website/vendor
